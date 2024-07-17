@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "hello all"
+env=$1
+echo "hello $env Stage"
